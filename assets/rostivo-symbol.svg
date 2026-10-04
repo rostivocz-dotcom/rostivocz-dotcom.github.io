@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">ROSTIVO symbol</title>
+  <desc id="desc">Limetkový kruh s tmavým monogramem R.</desc>
+  <circle cx="256" cy="256" r="244" fill="#b9ff66"/>
+  <g fill="none" stroke="#071513" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round" transform="translate(48 48) scale(10.4)">
+    <path d="M10.5 31V9.5h9.1c6 0 10 3 10 8.1 0 5-4 8.1-10 8.1h-4.2"/>
+    <path d="m20.8 24.8 9.2 7.1"/>
+  </g>
+</svg>

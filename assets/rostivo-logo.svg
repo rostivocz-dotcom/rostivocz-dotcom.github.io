@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 220" role="img" aria-labelledby="title desc">
+  <title id="title">ROSTIVO</title>
+  <desc id="desc">Horizontální logo ROSTIVO v limetkové a tmavě zelené barvě.</desc>
+  <circle cx="110" cy="110" r="100" fill="#b9ff66"/>
+  <g fill="none" stroke="#071513" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round" transform="translate(26 26) scale(4.2)">
+    <path d="M10.5 31V9.5h9.1c6 0 10 3 10 8.1 0 5-4 8.1-10 8.1h-4.2"/>
+    <path d="m20.8 24.8 9.2 7.1"/>
+  </g>
+  <text x="250" y="139" fill="#071513" font-family="Space Grotesk, Manrope, Arial, sans-serif" font-size="86" font-weight="700" letter-spacing="10">ROSTIVO</text>
+</svg>
