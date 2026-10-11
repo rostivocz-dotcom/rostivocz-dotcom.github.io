@@ -1,1 +1,0 @@
-const e={terms:"Obchodní podmínky",refunds:"Storno, odstoupení a reklamace",privacy:"Ochrana osobních údajů",cookies:"Cookies a technologie"},n=(o,a="cs")=>`/?page=${o}&lang=${a}`;export{n as L,e as a};
