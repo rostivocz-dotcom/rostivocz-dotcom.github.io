@@ -1,0 +1,1 @@
+const s="rostivo-pricing-handoff-v1";function t(e){window.sessionStorage.setItem(s,JSON.stringify(e))}function a(){try{const e=window.sessionStorage.getItem(s);if(!e)return null;const n=JSON.parse(e);return typeof n.packageId!="string"||typeof n.message!="string"?null:{packageId:n.packageId,message:n.message}}catch{return null}}export{a as l,t as s};

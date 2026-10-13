@@ -1,0 +1,1 @@
+const t="rostivo-ready-site-handoff-v1";function r(s){try{window.sessionStorage.setItem(t,JSON.stringify(s))}catch{}}function n(){try{const s=window.sessionStorage.getItem(t);if(!s)return null;const e=JSON.parse(s);return e.service!=="ready"&&e.service!=="web"||typeof e.message!="string"?null:{service:e.service,message:e.message}}catch{return null}}export{n as l,r as s};
