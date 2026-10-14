@@ -1,0 +1,1 @@
+function a(e){return e.normalize("NFD").replace(/[\u0300-\u036f]/g,"").toLocaleLowerCase().trim()}function t(e,n){const r=a(e);return r?a(n.join(" ")).includes(r):!0}const o=t;export{o as a,t as m,a as n};
