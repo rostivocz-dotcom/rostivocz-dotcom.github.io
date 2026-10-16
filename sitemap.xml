@@ -37,6 +37,18 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://rostivo.studio/blog/jak-ziskat-poptavky-z-webu-pro-malou-firmu/</loc>
+    <lastmod>2026-10-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://rostivo.studio/blog/kolik-prispevku-mesicne-pro-malou-firmu/</loc>
+    <lastmod>2026-10-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://rostivo.studio/blog/co-pripravit-pred-tvorbou-webu-pro-malou-firmu/</loc>
     <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
@@ -113,6 +125,12 @@
     <lastmod>2026-10-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://rostivo.studio/sprava-socialnich-siti/</loc>
+    <lastmod>2026-10-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://rostivo.studio/blog/</loc>
